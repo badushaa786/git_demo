@@ -1,2 +1,2 @@
-echo"yah It's BLACK Day"
-echo "sethapayaleh"
+"yah It's BLACK Day" 
+"sethapayaleh"
